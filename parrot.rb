@@ -5,7 +5,7 @@
 #  "Squawk!"
 #end
 
-def parrot_response(Squawk)
+def parrot(Squawk)
   answer= "Pretty bird!"
   return "Squawk!"
   "Squawk!"
